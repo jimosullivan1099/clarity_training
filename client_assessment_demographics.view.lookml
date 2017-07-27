@@ -1,0 +1,1 @@
+/opt/looker-share/models/clarity_basemodel/client_assessment_demographics.view.lookml

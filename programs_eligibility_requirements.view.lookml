@@ -1,0 +1,1 @@
+/opt/looker-share/models/clarity_basemodel/programs_eligibility_requirements.view.lookml

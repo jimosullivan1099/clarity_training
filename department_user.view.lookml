@@ -1,0 +1,1 @@
+/opt/looker-share/models/clarity_basemodel/department_user.view.lookml

@@ -1,0 +1,1 @@
+/opt/looker-share/models/clarity_basemodel/client_last_assessment.view.lookml

@@ -1,0 +1,1 @@
+/opt/looker-share/models/clarity_basemodel/client_program_screening_base.view.lookml

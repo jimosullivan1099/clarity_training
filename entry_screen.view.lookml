@@ -1,0 +1,1 @@
+/opt/looker-share/models/clarity_basemodel/entry_screen.view.lookml

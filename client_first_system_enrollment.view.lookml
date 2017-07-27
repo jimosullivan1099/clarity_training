@@ -1,0 +1,1 @@
+/opt/looker-share/models/clarity_basemodel/client_first_system_enrollment.view.lookml

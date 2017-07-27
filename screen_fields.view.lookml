@@ -1,0 +1,1 @@
+/opt/looker-share/models/clarity_basemodel/screen_fields.view.lookml
